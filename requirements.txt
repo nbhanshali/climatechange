@@ -1,0 +1,16 @@
+# Climate Change Graph Analyser: Required Libraries
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta
+
+# Graphics and Data Visualization
+plotly~=4.10.0
+pandas~=1.1.5
+
+# Datasets Link
+Claim ID: FboEVRccoNnApeHD
+Claim Passcode: m9pimaWfTnQNeJtD
+
+
